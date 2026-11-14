@@ -1,0 +1,20 @@
+[project]
+name = "healthcare-rag-backend"
+version = "0.1.0"
+description = "RAG assistant backend for Kaislaranta Health (fictional)"
+authors = [
+    { name = "makinenvilma" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.162.7",
+    "httpx>=0.28.1",
+    "psycopg[binary]>=3.3.9",
+    "pydantic-settings>=2.16.3",
+    "uvicorn[standard]>=0.54.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
