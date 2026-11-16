@@ -1,0 +1,10 @@
+{"id": "q01", "question": "Paljonko peruuttamattomasta käynnistä veloitetaan?", "role": "asiakaspalvelu", "expected_slugs": ["hinnasto-2026"], "answerable": true, "category": "versio"}
+{"id": "q02", "question": "Kuinka pitkän sairausloman voi kirjoittaa etänä?", "role": "hoitaja", "expected_slugs": [], "answerable": false, "category": "rooli"}
+{"id": "q03", "question": "", "role": "", "expected_slugs": [], "answerable": , "category": ""}
+{"id": "q04", "question": "", "role": "", "expected_slugs": [], "answerable": , "category": ""}
+{"id": "q05", "question": "", "role": "", "expected_slugs": [], "answerable": , "category": ""}
+{"id": "q06", "question": "", "role": "", "expected_slugs": [], "answerable": , "category": ""}
+{"id": "q07", "question": "", "role": "", "expected_slugs": [], "answerable": , "category": ""}
+{"id": "q08", "question": "", "role": "", "expected_slugs": [], "answerable": , "category": ""}
+{"id": "q09", "question": "", "role": "", "expected_slugs": [], "answerable": , "category": ""}
+{"id": "q10", "question": "", "role": "", "expected_slugs": [], "answerable": , "category": ""}
